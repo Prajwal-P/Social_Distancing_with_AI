@@ -1,0 +1,9 @@
+numpy
+matplotlib
+sklearn
+Pillow
+opencv-python
+Keras
+face-detection
+face-recognition
+tqdm
